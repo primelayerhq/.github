@@ -5,6 +5,6 @@ PrimeLayer is a flexible and futureproof BTC Layer 2 that represents a paradigm 
 
 ## Learn More
 
-#### [Litepaper v1.0.pdf](https://github.com/primelayerhq/primelayer-docs/blob/main/litepaper/v1.0/Litepaper%20v1.0.pdf)
-#### [PrimeLayer Bluepaper v1.0 - Executive Summary.pdf](https://github.com/primelayerhq/primelayer-docs/blob/main/bluepaper/v1.0/PrimeLayer%20Bluepaper%20v1.0%20-%20Executive%20Summary.pdf)
-#### [PrimeLayer Bluepaper v1.0 - Acadamic Version.pdf](https://github.com/primelayerhq/primelayer-docs/blob/main/bluepaper/v1.0/PrimeLayer%20Bluepaper%20v1.0%20(Acadamic%20Version).pdf)
+#### [Litepaper v1.0.pdf](https://raw.githubusercontent.com/primelayerhq/primelayer-docs/refs/heads/main/litepaper/v1.0/Litepaper%20v1.0.pdf)
+#### [PrimeLayer Bluepaper v1.0 - Executive Summary.pdf](https://raw.githubusercontent.com/primelayerhq/primelayer-docs/refs/heads/main/bluepaper/v1.0/PrimeLayer%20Bluepaper%20v1.0%20-%20Executive%20Summary.pdf)
+#### [PrimeLayer Bluepaper v1.0 - Acadamic Version.pdf](https://raw.githubusercontent.com/primelayerhq/primelayer-docs/refs/heads/main/bluepaper/v1.0/PrimeLayer%20Bluepaper%20v1.0%20(Acadamic%20Version).pdf)
